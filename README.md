@@ -2,7 +2,7 @@
 
 ## Description
 
-This Solidity code is a contract sample created in partial fulfillment of the requirements for the ETH + AVAX Intermediate course of Metacrafters. The purpose of the code is to showcase the skills that were taught from the aformentioned course, mainly error handling and functions in Solidity, among other concepts.
+This Solidity code is a contract sample created in partial fulfillment of the requirements for the ETH + AVAX Intermediate course of Metacrafters. The purpose of the code is to showcase the skills that were taught from the aformentioned course, mainly basic error handling and functions in Solidity, among other concepts.
 
 ## Getting Started
 
